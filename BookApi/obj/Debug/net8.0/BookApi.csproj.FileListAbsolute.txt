@@ -1,0 +1,6 @@
+C:\Users\abhay\source\repos\BookApi\obj\Debug\net8.0\BookApi.csproj.AssemblyReference.cache
+C:\Users\abhay\source\repos\BookApi\obj\Debug\net8.0\BookApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abhay\source\repos\BookApi\obj\Debug\net8.0\BookApi.AssemblyInfoInputs.cache
+C:\Users\abhay\source\repos\BookApi\obj\Debug\net8.0\BookApi.AssemblyInfo.cs
+C:\Users\abhay\source\repos\BookApi\obj\Debug\net8.0\BookApi.csproj.CoreCompileInputs.cache
+C:\Users\abhay\source\repos\BookApi\obj\Debug\net8.0\BookApi.MvcApplicationPartsAssemblyInfo.cache

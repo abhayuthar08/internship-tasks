@@ -1,0 +1,253 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\abhay\\source\\repos\\BookApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9DF891-2519-4A99-9BB6-C6BF012E87F1}|..\\BookApi.Entities\\BookApi.Entities.csproj|c:\\users\\abhay\\source\\repos\\bookapi.entities\\migrations\\20250529101639_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|c:\\users\\abhay\\source\\repos\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|c:\\users\\abhay\\source\\repos\\bookapi\\bookapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|solutionrelative:bookapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|c:\\users\\abhay\\source\\repos\\bookapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9DF891-2519-4A99-9BB6-C6BF012E87F1}|..\\BookApi.Entities\\BookApi.Entities.csproj|c:\\users\\abhay\\source\\repos\\bookapi.entities\\migrations\\bookdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9DF891-2519-4A99-9BB6-C6BF012E87F1}|..\\BookApi.Entities\\BookApi.Entities.csproj|c:\\users\\abhay\\source\\repos\\bookapi.entities\\context\\bookdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9DF891-2519-4A99-9BB6-C6BF012E87F1}|..\\BookApi.Entities\\BookApi.Entities.csproj|c:\\users\\abhay\\source\\repos\\bookapi.entities\\bookapi.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9DF891-2519-4A99-9BB6-C6BF012E87F1}|..\\BookApi.Entities\\BookApi.Entities.csproj|c:\\users\\abhay\\source\\repos\\bookapi.entities\\entities\\bookdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|c:\\users\\abhay\\source\\repos\\bookapi\\bookapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|solutionrelative:bookapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|c:\\users\\abhay\\source\\repos\\bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9DF891-2519-4A99-9BB6-C6BF012E87F1}|..\\BookApi.Entities\\BookApi.Entities.csproj|c:\\users\\abhay\\source\\repos\\bookapi.entities\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|c:\\users\\abhay\\source\\repos\\bookapi\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB9DF891-2519-4A99-9BB6-C6BF012E87F1}|..\\BookApi.Entities\\BookApi.Entities.csproj|c:\\users\\abhay\\source\\repos\\bookapi.entities\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|c:\\users\\abhay\\source\\repos\\bookapi\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D1A8A62-1AB2-4162-9F4D-CCF4CBA86A10}|BookApi.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:3:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookApi",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi\\BookApi.csproj",
+              "RelativeDocumentMoniker": "BookApi.csproj",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi\\BookApi.csproj",
+              "RelativeToolTip": "BookApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T17:27:20.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Migrations\\BookDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "..\\BookApi.Entities\\Migrations\\BookDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Migrations\\BookDbContextModelSnapshot.cs",
+              "RelativeToolTip": "..\\BookApi.Entities\\Migrations\\BookDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T12:22:01.509Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAAAJcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T08:02:35.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-29T08:40:02.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250529101639_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Migrations\\20250529101639_InitialMigration.cs",
+              "RelativeDocumentMoniker": "..\\BookApi.Entities\\Migrations\\20250529101639_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Migrations\\20250529101639_InitialMigration.cs",
+              "RelativeToolTip": "..\\BookApi.Entities\\Migrations\\20250529101639_InitialMigration.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwAsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:16:39.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Context\\BookDbContext.cs",
+              "RelativeDocumentMoniker": "..\\BookApi.Entities\\Context\\BookDbContext.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Context\\BookDbContext.cs",
+              "RelativeToolTip": "..\\BookApi.Entities\\Context\\BookDbContext.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA6wCgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:19:27.822Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookApi.Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\BookApi.Entities.csproj",
+              "RelativeDocumentMoniker": "..\\BookApi.Entities\\BookApi.Entities.csproj",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\BookApi.Entities.csproj",
+              "RelativeToolTip": "..\\BookApi.Entities\\BookApi.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T12:48:42.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookDetails.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Entities\\BookDetails.cs",
+              "RelativeDocumentMoniker": "..\\BookApi.Entities\\Entities\\BookDetails.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Entities\\BookDetails.cs",
+              "RelativeToolTip": "..\\BookApi.Entities\\Entities\\BookDetails.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:03:56.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookApi.csproj",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi\\BookApi.csproj",
+              "RelativeDocumentMoniker": "BookApi.csproj",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi\\BookApi.csproj",
+              "RelativeToolTip": "BookApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-29T12:59:25.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "..\\BookApi.Entities\\Repositories\\BookRepository.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "..\\BookApi.Entities\\Repositories\\BookRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAqwBAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:57:25.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "Models\\Book.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi\\Models\\Book.cs",
+              "RelativeToolTip": "Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:45:19.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:38:50.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\BookApi.Entities\\Class1.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi.Entities\\Class1.cs",
+              "RelativeToolTip": "..\\BookApi.Entities\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:02:12.342Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\abhay\\source\\repos\\BookApi\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "Services\\BookService.cs",
+              "ToolTip": "C:\\Users\\abhay\\source\\repos\\BookApi\\Services\\BookService.cs",
+              "RelativeToolTip": "Services\\BookService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T07:51:01.718Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
